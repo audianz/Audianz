@@ -1,0 +1,564 @@
+[07/18/2012 3:58 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 3:58 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 3:58 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 4:04 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=20.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=03:34:54 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.88, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A1Z3zk9XESg3LpBTB0oRq63NQ.M9AaSfl8EDz8Xyqy9jVecY5XaD2z2U, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=1FF385274M678634T, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.88, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=20.00, shipping=0.00, ipn_track_id=160687789bfac, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 5:21 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 5:54 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=11.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:24:04 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.62, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AGgRp.O-.NH6J1ySjlt8USIHxzWX, payer_email=thavee_1301459553_per@gmail.com, txn_id=6P341953FJ3739219, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.62, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=11.00, shipping=0.00, ipn_track_id=8f0207cf37aad, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:01 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:31:15 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=1.75, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31ANH.MIlavx808akRvlSsJO8Yq-GS, payer_email=thavee_1301459553_per@gmail.com, txn_id=3H985885CE542381A, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2, payment_gross=50.00, shipping=0.00, ipn_track_id=890e319fe5a0e, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:06 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=14.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:36:48 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.71, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AJ5kv.hFLcluapXgc5fiXU0dmB9T, payer_email=thavee_1301459553_per@gmail.com, txn_id=1NS86517B1015201B, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.71, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=14.00, shipping=0.00, ipn_track_id=e48cfa9ba9d73, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:15 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=05:45:20 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AEIjGoGPK2CN5lW2rOb6GA.LbnfdAzKGEW3MkKWTD9GFwhcb6qV8JzAr, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=5NN803218H845082R, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2, payment_gross=50.00, shipping=0.00, ipn_track_id=43933a3ec6605, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:17 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=19.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:47:06 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.85, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAVS-WNV4FFxaE.mNQTqVd2E8Gkaq, payer_email=thavee_1301459553_per@gmail.com, txn_id=7V929317YP1744619, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.85, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=19.00, shipping=0.00, ipn_track_id=1d4fe0361040e, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:21 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=05:51:09 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-ASFboUMK6g-0dZ4mbmuYhoIA1kBd, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=6GD50882HP776410X, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2, payment_gross=50.00, shipping=0.00, ipn_track_id=72a9de6821abd, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:22 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=3.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:52:48 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.39, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31A5eSBUVWgq-2SrrfqNITmxhzfTrN, payer_email=thavee_1301459553_per@gmail.com, txn_id=8VG45056RM240184D, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.39, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=3.00, shipping=0.00, ipn_track_id=951b9912c849c, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:26 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:56:06 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.45, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AAK0u3u-AzKSri0hUlGeV8V4Z.0j, payer_email=thavee_1301459553_per@gmail.com, txn_id=5F7649900N987643R, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=5.00, shipping=0.00, ipn_track_id=64eb09ff5aae3, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:28 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=05:58:56 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A0vw7BtY6B.IlBhxoZ7isqqtwWSfAxd0L1TvjbY0NCOYUvcOEazGfWKQ, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=8SJ066887V253735A, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2, payment_gross=50.00, shipping=0.00, ipn_track_id=b4cc02018ff6, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=3.02, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=05:59:15 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.39, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AnYlBLEPVcz2weI.WJkIXvMcMSqyACnCkVoMmfyQOKbMTfux.y3-IqUV, payer_email=thavee_1301459553_per@gmail.com, txn_id=36T830793X648405J, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.39, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=3.02, shipping=0.00, ipn_track_id=bf64de0e7cc03, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:35 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=2.50, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=06:05:50 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.37, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AQU0e5vuZCvSg-XJploSa.sGUDlpADpJRagyZWnn01JP6QPZDnPr8pwQ, payer_email=thavee_1301459553_per@gmail.com, txn_id=6BE10336W3820033B, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.37, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=2.50, shipping=0.00, ipn_track_id=55722447a9a0d, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:35 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=06:05:56 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AHbuJ0o8Xnv63Ym3J0Lr..xtecQ5AMn96lolFAg4Br1rywMKI6CYH3Ow, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=7SJ99898RU433245A, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=2, payment_gross=50.00, shipping=0.00, ipn_track_id=51d04745394ae, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/18/2012 6:47 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=06:17:50 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njoy, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=ALPx8Ah2rj7TumV0N.Kfn7t0WfNJARdMy5fuSCehZhgWlNizaJ6xoGD-, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=1N916763BR283152W, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njoy, payment_gross=50.00, shipping=0.00, ipn_track_id=9b2ff64d7618, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 10:03 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=12.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=21:33:19 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.65, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njoz, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=ACUe-E7Hjxmeel8FjYAtjnx-yjHAAW7zMdEbdV-Wcjs6FQC7aTi31SQ4, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=1G836852UN5695644, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.65, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njoz, payment_gross=12.00, shipping=0.00, ipn_track_id=f8802a5330f35, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 10:12 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=3.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=21:41:58 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.39, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo0, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAb6RKCpisUfBP-Vdhpn1eic9ZXC5, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=42S64773GJ092115W, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.39, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo0, payment_gross=3.00, shipping=0.00, ipn_track_id=a4162b96b1d1a, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 10:30 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=25.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=22:00:53 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=1.03, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=6, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AQU0e5vuZCvSg-XJploSa.sGUDlpA-cew.gfSiGgUmPL-mzde3-ARvsY, payer_email=thavee_1301459553_per@gmail.com, txn_id=0FK98670TY369960M, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.03, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=6, payment_gross=25.00, shipping=0.00, ipn_track_id=5e56d18a99b64, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 11:23 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=22:53:37 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.45, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=6, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=ACUe-E7Hjxmeel8FjYAtjnx-yjHAADmykGEOu6YxkOoskOljznAhc47h, payer_email=thavee_1301459553_per@gmail.com, txn_id=7YR52731YX175012D, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=6, payment_gross=5.00, shipping=0.00, ipn_track_id=8c32066a8a943, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 11:26 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=22:56:16 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.59, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=6, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AsJnbhXBu1pUCRvhjkT-TdNFJcYvAxte9AyKo4VfSwCLPYYtZ7jb1LEK, payer_email=thavee_1301459553_per@gmail.com, txn_id=2UC82209534644734, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.59, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=6, payment_gross=10.00, shipping=0.00, ipn_track_id=b402c8c78279e, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 11:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=S3NXSH7N25UKS, tax=0.00, address_street=1 Main St, payment_date=22:57:43 Jul 18, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=Thaveethu, mc_fee=0.59, address_country_code=US, address_name=Thaveethu A, notify_version=3.5, custom=6, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AceltVOyJnhB5-OaK3nFx1WZyZ5E, payer_email=thavee_1301459553_per@gmail.com, txn_id=05C04331W9142271M, payment_type=instant, last_name=A, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.59, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=6, payment_gross=10.00, shipping=0.00, ipn_track_id=5436ed9a507a, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 3:20 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=02:50:49 Jul 19, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.59, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AHawYJOjEzEA6mHzzeUdiOjIx-b0AfHcMYzt.25nDMougNNAwNciEIGI, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=0Y697406T0250291E, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.59, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=10.00, shipping=0.00, ipn_track_id=b2c63a9da55d0, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/19/2012 5:04 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=04:34:48 Jul 19, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.33, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo2, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AndpXJsASRNwD9ukBNBgx9-Vd4J5, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=9MG73061M10146725, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.33, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo2, payment_gross=1.00, shipping=0.00, ipn_track_id=487e8030c500e, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/20/2012 2:56 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=02:26:13 Jul 20, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.59, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=16, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Azg5QbKHYxxH4go5BxhHnrAV0oWOAxT4a6bfJEOi273dcynajYfBytEh, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=3UF86176EE9676457, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.59, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=16, payment_gross=10.00, shipping=0.00, ipn_track_id=bd197034902c, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/20/2012 3:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=03:00:34 Jul 20, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo1, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AvXC-2EZLtIKPp-xeLE5ox8PZ3S8AG0dWyVjPwZvMl4OiCYcsYDucMLn, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=99086994K99803408, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=rajeshkumar.t@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo1, payment_gross=1.00, shipping=0.00, ipn_track_id=b7d9d3cc5c1a7, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/21/2012 1:21 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=00:51:39 Jul 21, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo4, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AFMiIt9vqU8Bq5OpRiomehiT2tmD, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=7UR43814DA263180T, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=rajeshkumar.t@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo4, payment_gross=5.00, shipping=0.00, ipn_track_id=677f99ccba10d, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/23/2012 11:00 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=22:30:46 Jul 22, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njoy, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AZd2mmZTiHfGONAqx-winT94Dru9, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=1A626818ES853244R, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=rajeshkumar.t@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njoy, payment_gross=50.00, shipping=0.00, ipn_track_id=7d15888eefcc8, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/23/2012 11:09 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=22:39:25 Jul 22, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njoy, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Asp4UHKeLMxTzRyBsmBtZqDISyEoAPKoVR6UhomW4C2ErpoKJuuoFa-X, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=5DM55957DL6259741, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=rajeshkumar.t@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njoy, payment_gross=50.00, shipping=0.00, ipn_track_id=d2dfefa133469, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/23/2012 11:12 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=3CYEW84ZWNH9Q, tax=0.00, address_street=1 Main St, payment_date=22:42:08 Jul 22, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njoy, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AjyxlA5vSDsqE5GNE4er0OXHcurgA8ofkLgpuLqxOFOUVEpPI7DhsJOf, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=9GC047471Y9323218, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=rajeshkumar.t@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njoy, payment_gross=50.00, shipping=0.00, ipn_track_id=c71fa589e9262, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/25/2012 11:26 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=42VD3NDBT25V8, tax=0.00, address_street=1 Main St, payment_date=22:56:50 Jul 24, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=1.75, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=5, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AA4azLOME97P985Ai0Z55DSCuaETA0R0ft-sNDmRKERCJ-dSkZzJxUz0, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=0LX622853R2415416, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=1.75, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=50.00, shipping=0.00, ipn_track_id=48c3a2416199e, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/25/2012 2:33 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/25/2012 2:34 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/26/2012 12:05 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=42VD3NDBT25V8, tax=0.00, address_street=1 Main St, payment_date=23:30:15 Jul 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.45, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo4, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AGRnosPMGrMDk9izETCcKuqt7VMqAodwpxHGOcpDRZQV2LmYix4cajuL, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=01325686DY929060A, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo4, payment_gross=5.00, shipping=0.00, ipn_track_id=3be92068ce672, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/26/2012 12:07 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=42VD3NDBT25V8, tax=0.00, address_street=1 Main St, payment_date=23:37:18 Jul 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.45, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo4, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=ATSp8nj0QAwUXOZS58vNNPT9FqDaAc432XAVwaUBQKXO6cEhoID86XzB, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=5JN9252373900530A, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo4, payment_gross=5.00, shipping=0.00, ipn_track_id=715f3750b9864, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/26/2012 12:07 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=42VD3NDBT25V8, tax=0.00, address_street=1 Main St, payment_date=23:26:34 Jul 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.45, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo4, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Aj8Fu8xETNUixL614N0D4yPZhRosADdHGKutJNsFunZqPGkMkbqfnxKh, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=09250620WD879073K, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo4, payment_gross=5.00, shipping=0.00, ipn_track_id=ea1c9030dc692, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[07/26/2012 12:27 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=42VD3NDBT25V8, tax=0.00, address_street=1 Main St, payment_date=23:57:12 Jul 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.45, address_country_code=US, address_name=John Smith, notify_version=3.5, custom=Njo4, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-A5WOUajDJwIJxi-4thy-vhlVhVGb, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=4GF46788MF4939056, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.45, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=Njo4, payment_gross=5.00, shipping=0.00, ipn_track_id=28179abff1930, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/13/2012 11:18 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10000.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=HMZ4VYA8PNGZY, tax=0.00, address_street=1 Main St, payment_date=22:48:04 Aug 12, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=renuka, mc_fee=290.30, address_country_code=US, address_name=renuka s, notify_version=3.6, custom=26, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAUIAHvyi6MEBd1pyH8Fs68.WW9b-, payer_email=renuka_1339825455_per@gmail.com, txn_id=1MM58929UB640440D, payment_type=instant, last_name=s, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=290.30, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=26, payment_gross=10000.00, shipping=0.00, ipn_track_id=79d8d8a8bac51, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/13/2012 11:52 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=8000.00, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, payer_id=DM5N7AWCYRNNA, tax=0.00, address_street=1 Main St, payment_date=23:21:58 Aug 12, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=renuka, mc_fee=232.30, address_country_code=US, address_name=renuka s, notify_version=3.5, custom=28, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AerSkRFha9fL7M7myvxR8KcThdtO, payer_email=renuka_1339825455_per@gmail.com, txn_id=2D96971981524523D, payment_type=instant, last_name=s, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=232.30, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=28, payment_gross=8000.00, shipping=0.00, ipn_track_id=a1987092d8592, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/24/2012 11:51 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=5000.00, protection_eligibility=Ineligible, address_status=unconfirmed, payer_id=DM5N7AWCYRNNA, tax=0.00, address_street=1 Main St, payment_date=23:21:11 Aug 23, 2012 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=renuka, address_country_code=US, address_name=renuka s, notify_version=3.6, custom=37, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=Ai1PaghZh5FmBLCDCTQpwG8jB264AG.yuZDODQMaSqL5x9B9yqlTzCEQ, payer_email=renuka_1339825455_per@gmail.com, txn_id=0MP43660C0318460G, payment_type=echeck, last_name=s, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, receiver_id=C6GN9F7VHUBZL, pending_reason=echeck, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=37, payment_gross=5000.00, shipping=0.00, ipn_track_id=b86bf039ed3e4, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/24/2012 11:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=1000.00, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, payer_id=DM5N7AWCYRNNA, tax=0.00, address_street=1 Main St, payment_date=23:22:54 Aug 23, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=renuka, mc_fee=29.30, address_country_code=US, address_name=renuka s, notify_version=3.6, custom=37, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=A5bz8lRDgMjMSOkbMDaRDxLpoYTxAsnO6VDOvJoibptpDq.ZBQcZamQm, payer_email=renuka_1339825455_per@gmail.com, txn_id=43W8954209583834W, payment_type=instant, last_name=s, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=29.30, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=37, payment_gross=1000.00, shipping=0.00, ipn_track_id=59ed059fbb859, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/25/2012 1:07 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=0.31, protection_eligibility=Eligible, address_status=confirmed, payer_id=8ASB34AECK392, tax=0.00, address_street=1 Main St, payment_date=00:37:35 Aug 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.31, address_country_code=US, address_name=John Smith, notify_version=3.6, custom=NjoxMw==, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AsRgDXYQpWetoCbTzUCuPRAVwN.j, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=32705910S9819222J, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.31, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=NjoxMw==, payment_gross=0.31, shipping=0.00, ipn_track_id=dba958ae44386, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[08/25/2012 1:15 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=10.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=8ASB34AECK392, tax=0.00, address_street=1 Main St, payment_date=00:45:18 Aug 25, 2012 PDT, payment_status=Completed, charset=windows-1252, address_zip=95131, first_name=John, mc_fee=0.59, address_country_code=US, address_name=John Smith, notify_version=3.6, custom=NjoxMA==, payer_status=verified, business=dinesh_1338204226_biz@dreamajax.com, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AVRLXtToXRsK-kCIsNA4.Tx7lCNXAoTysrdMPs4MJE7cvp-GV55tCGcY, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=33J52390CX9802925, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=dinesh_1338204226_biz@dreamajax.com, payment_fee=0.59, receiver_id=C6GN9F7VHUBZL, txn_type=web_accept, item_name=Payment Pay to Publisher, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=NjoxMA==, payment_gross=10.00, shipping=0.00, ipn_track_id=3fdb5902e32be, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[11/21/2012 5:52 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=12.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=WSMUVYA7LMY2U, tax=0.00, address_street=1 Main St, payment_date=04:22:32 Nov 21, 2012 PST, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith, notify_version=3.7, custom=5, payer_status=verified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AQU0e5vuZCvSg-XJploSa.sGUDlpAfA9sTMzcMMAZSfHifIcGl5qBRRq, payer_email=dinesh_1338204310_per@dreamajax.com, txn_id=38T05255JT336631W, payment_type=instant, last_name=Smith, address_state=CA, receiver_email=info@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=5, payment_gross=12.00, shipping=0.00, ipn_track_id=185efe9c40f24, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/23/2013 10:16 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=50.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ENWBKU8WW84CC, tax=0.00, address_street=1 Main St, payment_date=21:46:15 Apr 22, 2013 PDT, payment_status=Pending, charset=windows-1252, address_zip=95131, first_name=John, address_country_code=US, address_name=John Smith's Test Store, notify_version=3.7, custom=63, payer_status=unverified, address_country=United States, address_city=San Jose, quantity=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AfJSmiAuCeIyVEY5PqGyQDitv2SL, payer_email=dinesh.merchant@dreamajax.com, txn_id=53397828S0628113N, payment_type=instant, payer_business_name=John Smith's Test Store, last_name=Smith, address_state=CA, receiver_email=info@dreamajax.com, pending_reason=unilateral, txn_type=web_accept, item_name=Add Fund to AdNetwork, mc_currency=USD, item_number=1, residence_country=US, test_ipn=1, handling_amount=0.00, transaction_subject=63, payment_gross=50.00, shipping=0.00, ipn_track_id=5901225b17a35, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+

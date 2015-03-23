@@ -1,0 +1,146 @@
+/* Write Your Own CSS Here and Make Comment for each and every classes and put your name at end of comment line */
+span.status_icon{
+	margin-left:5px;
+}
+
+.notice{font-size:11px;color:#FF0000; margin-left:75px;font-style:italic;}
+span.mandatory{color:red;}
+/* Mobile screen module */
+div .mobilewidth  p label{width:210px;}
+div .mobilewidth {margin-left:15px;}
+
+/* Admin Login */
+
+.forgetbox { width: 630px; height: 62px; margin: 10px auto; background: url(../images/loginbox.png) no-repeat right -62px; padding-right: 11px; }
+.forgetbox_inner { background: url(../images/loginbox.png) no-repeat 0 0; height: 62px; padding-left: 11px; }
+.forgetbox_content { background: url(../images/loginbox.png) repeat-x 0 -124px; height: 62px; overflow: hidden; padding: 15px 2px; }
+.forgetbox .email { border: 0; background: #eee url(../images/emailfield.png) no-repeat; background-position: top left; width: 350px; margin-right: 25px; margin-left: 25px; }
+.forgetbox .email { -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; padding: 7px 5px 6px 40px; display: inline-block; font-size: 14px; }
+.forgetbox .email:focus { background-color: #fff; background-position: 0 -32px; }
+.forgetbox  button { background: #4b6592 url(../images/buttonbg.png) repeat-x top left; font-size: 13px; padding: 6px 14px; width: 67px; font-weight: bold;}
+.forgetbox  button { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; cursor: pointer; color: #fff; text-shadow: 1px 1px #333; border: 0; }
+.forgetbox  button:active { -moz-box-shadow: inset 1px 1px 2px #000; -webkit-box-shadow: inset 1px 1px 2px #000; box-shadow: inset 1px 1px 2px #000;}
+.forgetbox  button:hover { background: #364f7e url(../images/buttonbg.png) repeat-x 0 -34px; }
+
+.loginerror { width: 570px; margin: 10px auto; background: url(../images/blacktrans.png); padding: 7px 10px; font-size: 14px; color: red; text-align:center }
+.loginerror { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.loginerror input { margin: 0; padding: 0; vertical-align: middle; }
+
+.loginsuss { width: 570px; margin: 10px auto; background: url(../images/blacktrans.png); padding: 7px 10px; font-size: 14px; color:#66CC66; text-align:center }
+.loginsuss  { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.loginsuss  input { margin: 0; padding: 0; vertical-align: middle; }
+
+/*Pop Up View Approval User Details*/
+div#approval_view_popup { width:500px; padding:15px; margin:15px;}
+
+/***Statistics  Page **/
+div#statistics_title{float:left;width:100%;}
+div#statistics_title h1{float:left;width:75%;}
+div#statistics_title a span.export_excel_link{float:right;margin-right:10px;background: url(../images/icons/export_excel.png) no-repeat 0 20px;padding:17px 0 0 20px;}
+
+a span.export_excel_link{float:right;margin-right:10px;background: url(../images/icons/export_excel.png) no-repeat 0 20px;padding:17px 0 0 20px;}
+
+/******Advertiser Dashboard *******/
+/*Advertiser Dashboard*/
+div.widgetbox div.content ol li{
+	font-size:14px;
+	margin-left:17px;
+	padding:2px 0px;
+}
+
+/*Scroll Box Targeting */
+div.menu { 
+
+	position:absolute; 
+
+	right:50px; 
+	
+	margin-top:10px;
+	
+	z-index:0;
+
+	width:400px; 
+
+	background: #6882B3; 
+	border:2px solid #6882B3;
+	-moz-box-shadow:1px 1px 10px #6882B3;
+
+	text-align:center; 
+
+	/*color:#fff; */
+
+	font-size:12px; 
+
+}
+
+div.menu_title{font-size:14px;color:#fff;}
+
+div.menu table.scroll_table tr td{ padding:3px; text-align:left;}
+div.menu table.scroll_table tr.even td{ background-color:#E1EAF2;}
+span.scroll_subtitile{font-size:15px; font-weight:bold;}
+
+/*Pop Up Box */
+div.popup_box{position:absolute; visibility: hidden; border:7px solid #4B6592; background-color: white; width: 250px; padding: 8px;z-index:1000;text-align:left;; -moz-border-radius:5px; -moz-box-shadow: 1px 1px 10px #000;-webkit-border-radius:5px;-webkit-box-shadow:1px 1px 10px #000;}
+
+div.popup_box h4{font-size:13px;background-color:#6882B3;color:#fff;padding:5px 5px  5px 10px;}
+div.popup_box div.list_data{padding:6px 0px 0px 10px; border:1px solid #6882B3}
+
+span.popup_icon{ background:url(../images/icons/view_list_icon.png) no-repeat 5px 1px; padding:0px 20px 0px 0px}
+
+
+/* Site Module CSS */
+.sitemenu { list-style: none; }
+.sitemenu li { display: block; margin-bottom: 1px; margin-left:-15px; }
+.sitemenu li a { font-size: 13px; display: block; padding: 5px 0 5px 30px; color: #333; }
+.sitemenu li a:hover { }
+.sitemenu li.current a { width:100%; background-color: #eee; border-right: 0; color: #333; border-top: 1px solid #a6c0de; border-bottom: 1px solid #a6c0de; }
+.sitemenu li.current a:hover { text-decoration: none; }
+
+
+.signinbox { width: 100%; height: 270px; margin: 0px; background: #999 url(../images/texturebg.png); padding-right: 0px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;}
+.signinbox_inner { background: #999 url(../images/texturebg.png); height: 255px; padding-left: 10px; }
+.signinbox_content { background: #999 url(../images/texturebg.png); height: 255px; overflow: hidden; padding: 15px 20px; }
+.signinbox_content { color:#FFF; }
+
+.signinbox .username { border: 0; background: #eee url(../images/usernamefield.png) no-repeat; background-position: top left; width: 190px; margin-right: 10px; margin-bottom:20px; margin-top:20px;}
+.signinbox .username { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 7px 40px 6px 50px; display: inline-block; font-size: 14px; }
+.signinbox .username:focus { background-color: #fff; background-position: 0 -32px; }
+.signinbox .email { border: 0; background: #eee url(../images/emailfield.png) no-repeat; background-position: top left; width: 190px; margin-right: 10px; margin-bottom:20px; margin-top:20px;}
+.signinbox .email { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 7px 40px 6px 50px; display: inline-block; font-size: 14px; }
+.signinbox .email:focus { background-color: #fff; background-position: 0 -32px; }
+.signinbox .password { border: 0; background: #eee url(../images/passwordfield.png) no-repeat; background-position: top left; width: 190px; margin-right: 10px; margin-bottom:20px; }
+.signinbox .password { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 7px 40px 6px 50px; display: inline-block; font-size: 14px; }
+.signinbox .password:focus { background-color: #fff; background-position: 0 -32px; }
+.signinbox button { background: #4b6592 url(../images/buttonbg.png) repeat-x top left; font-size: 13px; padding: 6px 14px; width: 67px; font-weight: bold;}
+.signinbox button { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; cursor: pointer; color: #fff; text-shadow: 1px 1px #333; border: 0; }
+.signinbox button:active { -moz-box-shadow: inset 1px 1px 2px #000; -webkit-box-shadow: inset 1px 1px 2px #000; box-shadow: inset 1px 1px 2px #000;}
+.signinbox button:hover { background: #364f7e url(../images/buttonbg.png) repeat-x 0 -34px; }
+
+#accordion .sitecontent { display: none; margin: 10px 0 20px 0; }
+#accordion .sitecontent:last-child { padding: 0 15px; color: #333; }
+
+
+.widgetbox .sitecontent { background: #fcfcfc; padding: 0px 0px; color: #666; overflow: hidden; border: 1px solid #ccc; border-top: 0; }
+.widgetbox .sitecontent { -moz-border-radius: 0 0 3px 3px; -webkit-border-radius: 0 0 3px 3px; border-radius: 0 0 3px 3px; }
+.widgetbox .sitecontent p { margin: 5px auto; }
+.widgetbox .sitecontent p:first-child { margin-top: 0; }
+
+.quickloginoption { width: 325px; height:20px; margin-top: 10px; margin-left: -10px!important;  background: url(../images/blacktrans.png); padding: 7px 10px; font-size: 11px; color: #ccc; }
+.quickloginoption { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.quickloginoption input { margin: 0; padding: 0; vertical-align: middle; }
+.quickloginoption a { float: right; font-size: 11px; color: #ccc; }
+
+/*No Record CSS for Data tables*/
+
+ .dataTables_empty{text-align:center !important;font-weight:bold;}
+
+/*Notifications Area */
+ div.no_notifications{padding:10px;font-size:13px;}
+ div.notify_duration{ width:100%;text-align:right;}
+
+/* Header Part - Sign in/ Sign up */
+.headerspace_site { height: 30px; background: #333; border-bottom: 1px solid #222; }
+.headerspace_content { color:#aaa; text-align:right; padding-right:25px; padding-top:5px;}
+.headerspace_content a { color:#aaa; }
+.headerspace_content a:hover { color:#fff; text-decoration:none;}
+

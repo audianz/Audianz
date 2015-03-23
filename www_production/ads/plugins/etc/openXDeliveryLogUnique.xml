@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<plugin>
+    <name>openXDeliveryLogUnique</name>
+    <creationDate>2010-05-21</creationDate>
+    <author>Adservermods.com</author>
+    <authorEmail>info@dreamajax.com</authorEmail>
+    <authorUrl>http://www.dreamajax.com</authorUrl>
+    <license>GPL</license>
+    <description>Customized Plugin for Advanced Unique Click And Unique Impressions Plugin</description>
+    <version>1.0.2-dev</version>
+    <type>extension</type>
+
+    <install>
+
+        <files>
+            <file path="{PLUGINPATH}">openXDeliveryLogUnique.readme.txt</file>
+        </files>
+
+        <contents>
+            <group name="oxDeliveryView">1</group>
+            <group name="oxLogUnique" >2</group>
+        </contents>
+
+    </install>
+
+</plugin>

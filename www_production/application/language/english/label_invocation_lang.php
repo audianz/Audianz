@@ -1,0 +1,22 @@
+<?php
+	$lang['label_tag_settings']							=		"Tag Settings";	
+	$lang['label_invocation']								=		"Invocation";
+	$lang['label_dont_show']								=		"Don't show the banner again on the same page";
+	$lang['label_target_frame']							=		"Target frame";	
+	$lang['label_source']									=		"Source";
+	$lang['label_show']										=		"Show text below banner";
+	$lang['label_dont_show_camp']						=		"Don't show a banner from the same campaign again on the same page";
+	$lang['label_character_set']							=		"Character set";
+	$lang['label_support']									=		"Support 3rd Party Server Click tracking";
+	$lang['label_comments']								=		"Include Comments";
+	$lang['label_yes']											=		"Yes";
+	$lang['label_no']							 				=		"No";
+	$lang['label_new_window']							=		"New Window";
+	$lang['label_same_window']							=		"Same Window";
+	$lang['label_rich_media_double_click']				=		"Rich Media Double Click";
+	$lang['label_generic']									=		"Generic";
+	$lang['label_rich_media_openx']						=		"Rich Media Openx";
+	$lang['label_default']									=		"Default";
+	$lang['label_insert_cache_busting_code']		=		"Insert Cache Busting Code";
+	$lang['label_auto_detect']							=		"Auto Detect";
+	$lang['label_refresh']									=		"Refresh";	

@@ -1,0 +1,1 @@
+<?php echo $this->lang->line("general_label_next"); ?>

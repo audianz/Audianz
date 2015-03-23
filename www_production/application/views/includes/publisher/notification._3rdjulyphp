@@ -1,0 +1,54 @@
+<div class="topheader">
+        <ul class="notebutton">
+		<?php if($this->session->userdata('session_user_type') =='ADVERTISER') { ?>
+            <li class="note">
+                <a href="<?php echo site_url('advertiser/suggestions/tabview/0'); ?>" class="messagenotify">
+                    <span class="wrap">
+                        <span class="thicon msgicon"></span>
+						<?php $count	=$this->mod_suggestions->get_tabread('0', $this->session->userdata('session_advertiser_id')); ?>
+						<?php if($count >0) : ?><span class="count"><?php echo $count; ?></span><?php endif; ?>
+                    </span>
+                </a>
+            </li>
+			<?php } else if($this->session->userdata('session_user_type') =='TRAFFICKER') { ?>
+			 <li class="note">
+                <a href="<?php echo site_url('publisher/suggestions/tabview/0'); ?>" class="messagenotify">
+                    <span class="wrap">
+                        <span class="thicon msgicon"></span>
+						<?php $count	=$this->mod_suggestions->get_tabread('0', $this->session->userdata('session_publisher_id')); ?>
+						<?php if($count >0) : ?><span class="count"><?php echo $count; ?></span><?php endif; ?>
+                    </span>
+                </a>
+            </li>
+			<?php } else { ?>
+            <li class="note">
+                <a href="<?php echo site_url('admin/suggestions/tabview/0'); ?>" class="messagenotify">
+                    <span class="wrap">
+                        <span class="thicon msgicon"></span>
+						<?php $count	=$this->mod_suggestions->get_tabread('0', $this->session->userdata('mads_sess_admin_id')); ?>
+						<?php if($count >0) : ?><span class="count"><?php echo $count; ?></span><?php endif; ?>
+                    </span>
+                </a>
+            </li>
+			<?php } ?>
+            <li class="note">
+            	<a href="pages/info.html" class="alertnotify">
+                	<span class="wrap">
+                    	<span class="thicon infoicon"></span>
+                        <span class="count">5</span>
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div><!-- topheader -->
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+	
+			jQuery(document).delegate(".views", "click", function(e){
+				  jQuery.colorbox({width:"55%", height:"75%", rel:'iframe', href:this.href});
+				  return false;
+				  //event.preventDefault();
+			});
+		
+		});
+   </script>

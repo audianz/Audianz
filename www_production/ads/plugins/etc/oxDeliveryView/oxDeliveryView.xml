@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href=""?>
+
+<plugin>
+   <name>oxDeliveryView</name>
+    <creationDate>2010-05-21</creationDate>
+    <author>Adservermods.com</author>
+    <authorEmail>info@dreamajax.com</authorEmail>
+    <authorUrl>http://www.dreamajax.com</authorUrl>
+    <license>GPL</license>
+    <description>Customized Plugin for Advanced Unique Click And Unique Impressions Plugin</description>
+    <version>1.0.2-dev</version>
+    <oxversion>2.7.30-beta-rc11</oxversion>
+    <extends>deliveryDataPrepare</extends>
+
+    <install>
+        <files>
+            <file path="{MODULEPATH}deliveryDataPrepare/oxDeliveryView/">dataView.class.php</file>
+            <file path="{MODULEPATH}deliveryDataPrepare/oxDeliveryView/">dataView.delivery.php</file>
+        </files>
+
+        <schema>
+            <mdb2schema>tables_oxDeliveryView</mdb2schema>
+            <dboschema>db_schema</dboschema>
+            <dbolinks>db_schema.links</dbolinks>
+            <dataobject>Data_bkt_unique_m.php</dataobject>
+            <dataobject>Data_bkt_unique_c.php</dataobject>
+            <dataobject>Unique.php</dataobject>
+        </schema>
+
+
+        <components>
+           <component>
+                <name>dataView</name>
+                <hook>preLog</hook>
+           </component>
+        </components>
+
+    </install>
+
+</plugin>

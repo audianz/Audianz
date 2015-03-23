@@ -1,0 +1,32 @@
+<?php if(count($rs) > 0 && $rs != '') : ?>
+<table cellpadding="2" cellspacing="2" width="90%" border="0" align="center" style="color:#444;border:1px solid #ccc;padding:3px;line-height:25px;">
+  <tr style="background:#CCC;">
+    <th>S.No</th>
+    <th>Campaign ID</th>
+    <th>Campaigns Name</th>
+	<th>Contact</th>
+	<th>Email</th>
+	<th>Revenue</th>
+	<th>Revenue Type</th>
+	<th>Activate Time</th>
+	<th>Expire Time</th>
+  </tr>
+
+  <?php 
+		$i	=1;
+		foreach($rs as $row):
+  ?>
+  <tr style="background:#EEE;">
+    <td align="center"><?php echo $i++; ?></td>
+    <td align="center"><?php echo $row->campaignid; ?></td>
+    <td><?php echo $row->campaignname; ?></td>
+    <td><?php echo $row->contact; ?></td>
+	<td><?php echo $row->email; ?></td>
+    <td align="center"><?php echo $row->revenue; ?></td>
+    <td align="center"><?php echo $row->revenue_type; ?></td>
+    <td><?php echo $row->activate_time; ?></td>
+	<td><?php echo $row->expire_time; ?></td>
+  </tr>
+  <?php endforeach; ?>
+</table>
+<?php endif; ?>

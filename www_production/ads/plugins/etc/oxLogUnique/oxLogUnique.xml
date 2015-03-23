@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href=""?>
+
+<plugin>
+    <name>oxLogUnique</name>
+    <creationDate>2010-05-21</creationDate>
+    <author>Adservermods.com</author>
+    <authorEmail>info@dreamajax.com</authorEmail>
+    <authorUrl>http://www.dreamajax.com</authorUrl>
+    <license>GPL</license>
+    <description>Customized Plugin for Advanced Unique Click And Unique Impressions Plugin</description>
+    <version>1.0.2-dev</version>
+    <oxversion>2.7.30-beta-rc11</oxversion>
+    <extends>deliveryLog</extends>
+
+    <install>
+        <syscheck>
+            <depends>
+                <plugin version="1.0.0-dev" enabled="0">oxDeliveryDataPrepare</plugin>
+            </depends>
+        </syscheck>
+
+        <files>
+            <file path="{MODULEPATH}deliveryLog/oxLogUnique/">logImpressionUnique.delivery.php</file>
+            <file path="{MODULEPATH}deliveryLog/oxLogUnique/">logImpressionUnique.class.php</file>
+            <file path="{MODULEPATH}deliveryLog/oxLogUnique/">logClickUnique.delivery.php</file>
+            <file path="{MODULEPATH}deliveryLog/oxLogUnique/">logClickUnique.class.php</file>
+        </files>
+
+        <components>
+           <component>
+                <name>logImpressionUnique</name>
+                <hook>logImpression</hook>
+           </component>
+           <component>
+                <name>logClickUnique</name>
+                <hook>logClick</hook>
+           </component>
+        </components>
+
+    </install>
+
+
+</plugin>

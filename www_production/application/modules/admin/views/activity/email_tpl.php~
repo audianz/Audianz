@@ -1,0 +1,17 @@
+<title>Daily Activities</title>
+<div width="100%" style="border: 2px solid #333;padding:0px;-moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px;">
+	<div style="background: #333; padding: 20px 10px 11px 10px; position: relative;border-top: 1px solid #444; border-bottom: 3px solid #272727;">
+	<!--logo-->
+	<a href=""><img src="<?php echo base_url();?>assets/images/logo2.png" alt="Logo" /></a>
+	<!--info-->
+	</div><!--header-->
+	<div style="padding-bottom:20px;">
+	<?php echo $content; ?>	
+	</div>  
+	<div style="background: #333; padding: 10px 0px ;">
+		<div style="padding: 0 20px; text-align: right; font-size: 11px; color: #ccc;">
+		&copy; 2012. DreamAds. All Rights Reserved.
+	    	</div><!-- footerinner -->
+	</div><!-- footer -->
+</div>
+

@@ -1,0 +1,5 @@
+start_ip,end_ip,country,carriername
+203.193.157.00,203.193.157.50,india,docomo
+203.193.157.50,203.193.157.100,canada,uninor
+203.193.157.100,203.193.157.150,america,videocon
+203.193.157.150,203.193.157.200,awitcherland,airtel

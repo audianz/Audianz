@@ -1,0 +1,958 @@
+2015-02-25 12:32:59 - INFO --> Entered ck.php
+2015-02-25 12:32:59 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:32:59 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:32:59 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:32:59 - DEBUG --> entered log_store_click()
+2015-02-25 12:32:59 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:32:59 - DEBUG --> no type is 
+2015-02-25 12:32:59 - DEBUG --> dest is http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+2015-02-25 12:32:59 - DEBUG --> tmpArr is Array
+(
+    [0] => http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688?amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+)
+
+2015-02-25 12:32:59 - DEBUG --> destination ad id  is302
+2015-02-25 12:32:59 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688?amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+2015-02-25 12:32:59 - DEBUG --> 
+ entered ISIntermediateLandingEnable()  302  global arr is Array
+(
+    [oaparams] => 2__bannerid=302__zoneid=0__cb=6576b158d9__oadest=http://audianzexpress.com
+    [lat] => 28.6667
+    [lon] => 77.2167
+    [poi] => 1688
+    [bannerid] => 302
+    [zoneid] => 0
+    [cb] => 6576b158d9
+    [oadest] => http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+)
+
+2015-02-25 12:32:59 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:32:59 - DEBUG --> MAX_redirect() increase web
+2015-02-25 12:35:36 - INFO --> Entered ck.php
+2015-02-25 12:35:36 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:35:36 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:35:36 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:35:36 - DEBUG --> entered log_store_click()
+2015-02-25 12:35:36 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:35:36 - DEBUG --> no type is 
+2015-02-25 12:35:36 - DEBUG --> dest is http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+2015-02-25 12:35:36 - DEBUG --> tmpArr is Array
+(
+    [0] => http://audianzexpress.com
+    [1] => 28.6667&amp;lon=77.2167&amp;poi=1688?amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+)
+
+2015-02-25 12:35:36 - DEBUG --> destination ad id  is302
+2015-02-25 12:35:36 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com
+2015-02-25 12:35:36 - DEBUG --> 
+ entered ISIntermediateLandingEnable()  302  global arr is Array
+(
+    [oaparams] => 2__bannerid=302__zoneid=0__cb=6576b158d9__oadest=http://audianzexpress.com
+    [lat] => 28.6667
+    [lon] => 77.2167
+    [poi] => 1688
+    [bannerid] => 302
+    [zoneid] => 0
+    [cb] => 6576b158d9
+    [oadest] => http://audianzexpress.com&amp;lat=28.6667&amp;lon=77.2167&amp;poi=1688
+)
+
+2015-02-25 12:35:36 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:35:36 - DEBUG --> MAX_redirect() increase web
+2015-02-25 12:42:46 - INFO --> Entered ck.php
+2015-02-25 12:42:46 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:42:46 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:42:46 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:42:46 - DEBUG --> entered log_store_click()
+2015-02-25 12:42:46 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:42:46 - DEBUG --> no type is 
+2015-02-25 12:42:46 - DEBUG --> dest is http://audianzexpress.com&amp;lat=28.6&amp;lon=77.2&amp;poi=1688
+2015-02-25 12:42:46 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com
+2015-02-25 12:42:46 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:42:46 - DEBUG --> MAX_redirect() increase web
+2015-02-25 12:49:42 - INFO --> Entered ck.php
+2015-02-25 12:49:42 - INFO --> Entered ck.php
+2015-02-25 12:49:42 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:49:42 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:49:42 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:49:42 - DEBUG --> entered log_store_click()
+2015-02-25 12:49:42 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:49:42 - DEBUG --> no type is 
+2015-02-25 12:49:42 - DEBUG --> dest is http://audianzexpress.com&lat=28.4667&lon=77.0333&poi=1688
+2015-02-25 12:49:42 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.4667&lon=77.0333&poi=1688
+2015-02-25 12:49:42 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:49:42 - DEBUG --> MAX_redirect() increase web
+2015-02-25 12:51:43 - INFO --> Entered ck.php
+2015-02-25 12:51:44 - INFO --> Entered ck.php
+2015-02-25 12:51:44 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:51:44 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:51:44 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:51:44 - DEBUG --> entered log_store_click()
+2015-02-25 12:51:44 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:51:44 - DEBUG --> no type is 
+2015-02-25 12:51:44 - DEBUG --> dest is http://audianzexpress.com&lat=28.600006&lon=77.20001&poi=1688
+2015-02-25 12:51:44 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.600006&lon=77.20001&poi=1688
+2015-02-25 12:51:44 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:51:44 - DEBUG --> MAX_redirect() increase web
+2015-02-25 12:57:44 - INFO --> Entered ck.php
+2015-02-25 12:57:45 - INFO --> Entered ck.php
+2015-02-25 12:57:45 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 12:57:45 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 12:57:45 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 12:57:45 - DEBUG --> entered log_store_click()
+2015-02-25 12:57:45 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 12:57:45 - DEBUG --> no type is 
+2015-02-25 12:57:45 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 12:57:45 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 12:57:45 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 12:57:45 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:00:02 - INFO --> Entered ck.php
+2015-02-25 13:00:03 - INFO --> Entered ck.php
+2015-02-25 13:00:03 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:00:03 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:00:03 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:00:03 - DEBUG --> entered log_store_click()
+2015-02-25 13:00:03 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:00:03 - DEBUG --> no type is 
+2015-02-25 13:00:03 - DEBUG --> dest is http://audianzexpress.com&lat=28.466705&lon=77.033295&poi=1688
+2015-02-25 13:00:03 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.466705&lon=77.033295&poi=1688
+2015-02-25 13:00:03 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:00:03 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:00:09 - INFO --> Entered ck.php
+2015-02-25 13:00:10 - INFO --> Entered ck.php
+2015-02-25 13:00:10 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:00:10 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:00:10 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:00:10 - DEBUG --> entered log_store_click()
+2015-02-25 13:00:10 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:00:10 - DEBUG --> no type is 
+2015-02-25 13:00:10 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:00:10 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:00:10 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:00:10 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:11:29 - INFO --> Entered ck.php
+2015-02-25 13:11:30 - INFO --> Entered ck.php
+2015-02-25 13:11:30 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:11:30 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:11:30 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:11:30 - DEBUG --> entered log_store_click()
+2015-02-25 13:11:30 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:11:30 - DEBUG --> no type is 
+2015-02-25 13:11:30 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:11:30 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:11:30 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:11:30 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:16:42 - INFO --> Entered ck.php
+2015-02-25 13:16:47 - INFO --> Entered ck.php
+2015-02-25 13:16:47 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:16:47 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:16:47 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:16:47 - DEBUG --> entered log_store_click()
+2015-02-25 13:16:47 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:16:47 - DEBUG --> no type is 
+2015-02-25 13:16:47 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:16:47 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:16:47 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:16:47 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:25:42 - INFO --> Entered ck.php
+2015-02-25 13:25:46 - INFO --> Entered ck.php
+2015-02-25 13:25:46 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:25:46 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:25:46 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:25:46 - DEBUG --> entered log_store_click()
+2015-02-25 13:25:46 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:25:46 - DEBUG --> no type is 
+2015-02-25 13:25:46 - DEBUG --> dest is http://audianzexpress.com&lat=28.6645&lon=77.4353&poi=1688
+2015-02-25 13:25:46 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6645&lon=77.4353&poi=1688
+2015-02-25 13:25:46 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:25:46 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:29:09 - INFO --> Entered ck.php
+2015-02-25 13:29:15 - INFO --> Entered ck.php
+2015-02-25 13:29:15 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:29:15 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:29:15 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:29:15 - DEBUG --> entered log_store_click()
+2015-02-25 13:29:15 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:29:15 - DEBUG --> no type is 
+2015-02-25 13:29:15 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:29:15 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:29:15 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:29:15 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:36:38 - INFO --> Entered ck.php
+2015-02-25 13:36:38 - INFO --> Entered ck.php
+2015-02-25 13:36:38 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:36:38 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:36:38 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:36:38 - DEBUG --> entered log_store_click()
+2015-02-25 13:36:38 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:36:38 - DEBUG --> no type is 
+2015-02-25 13:36:38 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:36:38 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:36:38 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:36:38 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:39:57 - INFO --> Entered ck.php
+2015-02-25 13:39:57 - INFO --> Entered ck.php
+2015-02-25 13:39:57 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:39:57 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:39:57 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:39:57 - DEBUG --> entered log_store_click()
+2015-02-25 13:39:57 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:39:57 - DEBUG --> no type is 
+2015-02-25 13:39:57 - DEBUG --> dest is http://audianzexpress.com&lat=28.58007&lon=77.18935&poi=1688
+2015-02-25 13:39:57 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.58007&lon=77.18935&poi=1688
+2015-02-25 13:39:57 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:39:57 - DEBUG --> MAX_redirect() increase web
+2015-02-25 13:40:21 - INFO --> Entered ck.php
+2015-02-25 13:40:21 - INFO --> Entered ck.php
+2015-02-25 13:40:21 - DEBUG --> 
+ entered getValueFromKey
+2015-02-25 13:40:21 - DEBUG --> 
+ entered getPoiofClient
+2015-02-25 13:40:21 - DEBUG --> 
+ revenue type is not 2
+2015-02-25 13:40:21 - DEBUG --> entered log_store_click()
+2015-02-25 13:40:21 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-25 13:40:21 - DEBUG --> no type is 
+2015-02-25 13:40:21 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:40:21 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-25 13:40:21 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-25 13:40:21 - DEBUG --> MAX_redirect() increase web
+2015-02-26 1:24:43 - INFO --> Entered ck.php
+2015-02-26 1:24:43 - INFO --> Entered ck.php
+2015-02-26 1:24:43 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 1:24:43 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 1:24:43 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 1:24:43 - DEBUG --> entered log_store_click()
+2015-02-26 1:24:43 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 1:24:43 - DEBUG --> no type is 
+2015-02-26 1:24:43 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 1:24:43 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 1:24:43 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 1:24:43 - DEBUG --> MAX_redirect() increase web
+2015-02-26 1:32:34 - INFO --> Entered ck.php
+2015-02-26 1:32:35 - INFO --> Entered ck.php
+2015-02-26 1:32:35 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 1:32:35 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 1:32:35 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 1:32:35 - DEBUG --> entered log_store_click()
+2015-02-26 1:32:35 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 1:32:35 - DEBUG --> no type is 
+2015-02-26 1:32:35 - DEBUG --> dest is http://audianzexpress.com&lat=28.5973&lon=77.3398&poi=1688
+2015-02-26 1:32:35 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.5973&lon=77.3398&poi=1688
+2015-02-26 1:32:35 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 1:32:35 - DEBUG --> MAX_redirect() increase web
+2015-02-26 1:43:45 - INFO --> Entered ck.php
+2015-02-26 1:43:45 - INFO --> Entered ck.php
+2015-02-26 1:43:45 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 1:43:45 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 1:43:45 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 1:43:45 - DEBUG --> entered log_store_click()
+2015-02-26 1:43:45 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 1:43:45 - DEBUG --> no type is 
+2015-02-26 1:43:45 - DEBUG --> dest is http://audianzexpress.com&lat=28.598322&lon=77.062744&poi=1688
+2015-02-26 1:43:45 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.598322&lon=77.062744&poi=1688
+2015-02-26 1:43:45 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 1:43:45 - DEBUG --> MAX_redirect() increase web
+2015-02-26 2:06:42 - INFO --> Entered ck.php
+2015-02-26 2:06:43 - INFO --> Entered ck.php
+2015-02-26 2:06:43 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 2:06:43 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 2:06:43 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 2:06:43 - DEBUG --> entered log_store_click()
+2015-02-26 2:06:43 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 2:06:43 - DEBUG --> no type is 
+2015-02-26 2:06:43 - DEBUG --> dest is http://audianzexpress.com&lat=28.57&lon=77.32&poi=1688
+2015-02-26 2:06:43 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.57&lon=77.32&poi=1688
+2015-02-26 2:06:43 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 2:06:43 - DEBUG --> MAX_redirect() increase web
+2015-02-26 2:10:54 - INFO --> Entered ck.php
+2015-02-26 2:10:55 - INFO --> Entered ck.php
+2015-02-26 2:10:55 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 2:10:55 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 2:10:55 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 2:10:55 - DEBUG --> entered log_store_click()
+2015-02-26 2:10:55 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 2:10:55 - DEBUG --> no type is 
+2015-02-26 2:10:55 - DEBUG --> dest is http://audianzexpress.com&lat=28.666702&lon=77.216705&poi=1688
+2015-02-26 2:10:55 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.666702&lon=77.216705&poi=1688
+2015-02-26 2:10:55 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 2:10:55 - DEBUG --> MAX_redirect() increase web
+2015-02-26 2:36:21 - INFO --> Entered ck.php
+2015-02-26 2:36:21 - INFO --> Entered ck.php
+2015-02-26 2:36:21 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 2:36:21 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 2:36:21 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 2:36:21 - DEBUG --> entered log_store_click()
+2015-02-26 2:36:21 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 2:36:21 - DEBUG --> no type is 
+2015-02-26 2:36:21 - DEBUG --> dest is http://audianzexpress.com&lat=28.570007&lon=77.32001&poi=1688
+2015-02-26 2:36:21 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.570007&lon=77.32001&poi=1688
+2015-02-26 2:36:21 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 2:36:21 - DEBUG --> MAX_redirect() increase web
+2015-02-26 3:00:31 - INFO --> Entered ck.php
+2015-02-26 3:00:31 - INFO --> Entered ck.php
+2015-02-26 3:00:31 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 3:00:31 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 3:00:31 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 3:00:31 - DEBUG --> entered log_store_click()
+2015-02-26 3:00:31 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 3:00:31 - DEBUG --> no type is 
+2015-02-26 3:00:31 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.4333&poi=1688
+2015-02-26 3:00:31 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.4333&poi=1688
+2015-02-26 3:00:31 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 3:00:31 - DEBUG --> MAX_redirect() increase web
+2015-02-26 3:57:43 - INFO --> Entered ck.php
+2015-02-26 3:57:43 - INFO --> Entered ck.php
+2015-02-26 3:57:43 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 3:57:43 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 3:57:43 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 3:57:43 - DEBUG --> entered log_store_click()
+2015-02-26 3:57:43 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 3:57:43 - DEBUG --> no type is 
+2015-02-26 3:57:43 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 3:57:43 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 3:57:43 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 3:57:43 - DEBUG --> MAX_redirect() increase web
+2015-02-26 4:14:59 - INFO --> Entered ck.php
+2015-02-26 4:15:00 - INFO --> Entered ck.php
+2015-02-26 4:15:00 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 4:15:00 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 4:15:00 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 4:15:00 - DEBUG --> entered log_store_click()
+2015-02-26 4:15:00 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 4:15:00 - DEBUG --> no type is 
+2015-02-26 4:15:00 - DEBUG --> dest is http://audianzexpress.com&lat=28.607897&lon=77.39005&poi=1688
+2015-02-26 4:15:00 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.607897&lon=77.39005&poi=1688
+2015-02-26 4:15:00 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 4:15:00 - DEBUG --> MAX_redirect() increase web
+2015-02-26 4:29:40 - INFO --> Entered ck.php
+2015-02-26 4:29:40 - INFO --> Entered ck.php
+2015-02-26 4:29:40 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 4:29:40 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 4:29:40 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 4:29:40 - DEBUG --> entered log_store_click()
+2015-02-26 4:29:40 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 4:29:40 - DEBUG --> no type is 
+2015-02-26 4:29:40 - DEBUG --> dest is http://audianzexpress.com&lat=28.467165&lon=77.02832&poi=1688
+2015-02-26 4:29:40 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.467165&lon=77.02832&poi=1688
+2015-02-26 4:29:40 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 4:29:40 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:10:14 - INFO --> Entered ck.php
+2015-02-26 5:10:14 - INFO --> Entered ck.php
+2015-02-26 5:10:14 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:10:14 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:10:14 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:10:14 - DEBUG --> entered log_store_click()
+2015-02-26 5:10:14 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:10:14 - DEBUG --> no type is 
+2015-02-26 5:10:14 - DEBUG --> dest is http://audianzexpress.com&lat=28.4596&lon=77.0723&poi=1688
+2015-02-26 5:10:14 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.4596&lon=77.0723&poi=1688
+2015-02-26 5:10:14 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:10:14 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:10:17 - INFO --> Entered ck.php
+2015-02-26 5:10:17 - INFO --> Entered ck.php
+2015-02-26 5:10:17 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:10:17 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:10:17 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:10:17 - DEBUG --> entered log_store_click()
+2015-02-26 5:10:17 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:10:17 - DEBUG --> no type is 
+2015-02-26 5:10:17 - DEBUG --> dest is http://audianzexpress.com&lat=28.6&lon=77.2&poi=1688
+2015-02-26 5:10:17 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6&lon=77.2&poi=1688
+2015-02-26 5:10:17 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:10:17 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:21:12 - INFO --> Entered ck.php
+2015-02-26 5:21:12 - INFO --> Entered ck.php
+2015-02-26 5:21:12 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:21:12 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:21:12 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:21:12 - DEBUG --> entered log_store_click()
+2015-02-26 5:21:12 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:21:12 - DEBUG --> no type is 
+2015-02-26 5:21:12 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 5:21:12 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 5:21:12 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:21:12 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:21:16 - INFO --> Entered ck.php
+2015-02-26 5:21:16 - INFO --> Entered ck.php
+2015-02-26 5:21:16 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:21:16 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:21:16 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:21:16 - DEBUG --> entered log_store_click()
+2015-02-26 5:21:16 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:21:16 - DEBUG --> no type is 
+2015-02-26 5:21:16 - DEBUG --> dest is http://audianzexpress.com&lat=28.666702&lon=77.216705&poi=1688
+2015-02-26 5:21:16 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.666702&lon=77.216705&poi=1688
+2015-02-26 5:21:16 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:21:16 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:39:51 - INFO --> Entered ck.php
+2015-02-26 5:39:51 - INFO --> Entered ck.php
+2015-02-26 5:39:51 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:39:51 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:39:51 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:39:51 - DEBUG --> entered log_store_click()
+2015-02-26 5:39:51 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:39:51 - DEBUG --> no type is 
+2015-02-26 5:39:51 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 5:39:51 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 5:39:51 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:39:51 - DEBUG --> MAX_redirect() increase web
+2015-02-26 5:41:25 - INFO --> Entered ck.php
+2015-02-26 5:41:25 - INFO --> Entered ck.php
+2015-02-26 5:41:25 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 5:41:25 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 5:41:25 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 5:41:25 - DEBUG --> entered log_store_click()
+2015-02-26 5:41:25 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 5:41:25 - DEBUG --> no type is 
+2015-02-26 5:41:25 - DEBUG --> dest is http://audianzexpress.com&lat=28.6586&lon=77.2308&poi=1688
+2015-02-26 5:41:25 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6586&lon=77.2308&poi=1688
+2015-02-26 5:41:25 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 5:41:25 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:11:09 - INFO --> Entered ck.php
+2015-02-26 8:11:09 - INFO --> Entered ck.php
+2015-02-26 8:11:09 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:11:09 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:11:09 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:11:09 - DEBUG --> entered log_store_click()
+2015-02-26 8:11:09 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:11:09 - DEBUG --> no type is 
+2015-02-26 8:11:09 - DEBUG --> dest is http://audianzexpress.com&lat=28.57&lon=77.32&poi=1688
+2015-02-26 8:11:09 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.57&lon=77.32&poi=1688
+2015-02-26 8:11:09 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:11:09 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:13:03 - INFO --> Entered ck.php
+2015-02-26 8:13:14 - INFO --> Entered ck.php
+2015-02-26 8:13:14 - INFO --> Entered ck.php
+2015-02-26 8:13:14 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:13:14 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:13:14 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:13:14 - DEBUG --> entered log_store_click()
+2015-02-26 8:13:14 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:13:14 - DEBUG --> no type is 
+2015-02-26 8:13:14 - DEBUG --> dest is http://audianzexpress.com&lat=28.6&lon=77.2&poi=1688
+2015-02-26 8:13:14 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6&lon=77.2&poi=1688
+2015-02-26 8:13:14 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:13:14 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:14:05 - INFO --> Entered ck.php
+2015-02-26 8:14:05 - INFO --> Entered ck.php
+2015-02-26 8:14:05 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:14:05 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:14:05 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:14:05 - DEBUG --> entered log_store_click()
+2015-02-26 8:14:05 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:14:05 - DEBUG --> no type is 
+2015-02-26 8:14:05 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 8:14:05 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 8:14:05 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:14:05 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:17:09 - INFO --> Entered ck.php
+2015-02-26 8:17:11 - INFO --> Entered ck.php
+2015-02-26 8:17:11 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:17:11 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:17:11 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:17:11 - DEBUG --> entered log_store_click()
+2015-02-26 8:17:11 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:17:11 - DEBUG --> no type is 
+2015-02-26 8:17:11 - DEBUG --> dest is http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 8:17:11 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6667&lon=77.2167&poi=1688
+2015-02-26 8:17:11 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:17:11 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:19:17 - INFO --> Entered ck.php
+2015-02-26 8:35:42 - INFO --> Entered ck.php
+2015-02-26 8:35:43 - INFO --> Entered ck.php
+2015-02-26 8:35:43 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:35:43 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:35:43 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:35:43 - DEBUG --> entered log_store_click()
+2015-02-26 8:35:43 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:35:43 - DEBUG --> no type is 
+2015-02-26 8:35:43 - DEBUG --> dest is http://audianzexpress.com&lat=28.6594&lon=77.1619&poi=1688
+2015-02-26 8:35:43 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.6594&lon=77.1619&poi=1688
+2015-02-26 8:35:43 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:35:43 - DEBUG --> MAX_redirect() increase web
+2015-02-26 8:36:59 - INFO --> Entered ck.php
+2015-02-26 8:37:01 - INFO --> Entered ck.php
+2015-02-26 8:37:01 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 8:37:01 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 8:37:01 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 8:37:01 - DEBUG --> entered log_store_click()
+2015-02-26 8:37:01 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 8:37:01 - DEBUG --> no type is 
+2015-02-26 8:37:01 - DEBUG --> dest is http://audianzexpress.com&lat=28.679983&lon=77.27495&poi=1688
+2015-02-26 8:37:01 - DEBUG --> Entered MAX_redirect() http://audianzexpress.com&lat=28.679983&lon=77.27495&poi=1688
+2015-02-26 8:37:01 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 8:37:01 - DEBUG --> MAX_redirect() increase web
+2015-02-26 11:46:53 - INFO --> Entered ck.php
+2015-02-26 11:48:15 - INFO --> Entered ck.php
+2015-02-26 11:48:15 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 11:48:15 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 11:48:15 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 11:48:15 - DEBUG --> entered log_store_click()
+2015-02-26 11:48:15 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 11:48:15 - DEBUG --> no type is 
+2015-02-26 11:48:15 - DEBUG --> dest is http://&amp;lat=28.50886&amp;lon=77.16956&amp;poi=1696
+2015-02-26 11:48:15 - DEBUG --> Entered MAX_redirect() http://
+2015-02-26 11:48:15 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 11:57:35 - INFO --> Entered ck.php
+2015-02-26 11:57:35 - INFO --> Entered ck.php
+2015-02-26 11:57:35 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 11:57:35 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 11:57:35 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 11:57:35 - DEBUG --> entered log_store_click()
+2015-02-26 11:57:35 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 11:57:35 - DEBUG --> no type is 
+2015-02-26 11:57:35 - DEBUG --> dest is http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 11:57:35 - DEBUG --> Entered MAX_redirect() http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 11:57:35 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 11:57:45 - INFO --> Entered ck.php
+2015-02-26 11:57:45 - INFO --> Entered ck.php
+2015-02-26 11:57:45 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 11:57:45 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 11:57:45 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 11:57:45 - DEBUG --> entered log_store_click()
+2015-02-26 11:57:45 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 11:57:45 - DEBUG --> no type is 
+2015-02-26 11:57:45 - DEBUG --> dest is http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 11:57:45 - DEBUG --> Entered MAX_redirect() http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 11:57:45 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 12:02:18 - INFO --> Entered ck.php
+2015-02-26 12:02:36 - INFO --> Entered ck.php
+2015-02-26 12:02:36 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 12:02:36 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 12:02:36 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 12:02:36 - DEBUG --> entered log_store_click()
+2015-02-26 12:02:36 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 12:02:36 - DEBUG --> no type is 
+2015-02-26 12:02:36 - DEBUG --> dest is http://&lat=28.6&lon=77.2&poi=1696
+2015-02-26 12:02:36 - DEBUG --> Entered MAX_redirect() http://&lat=28.6&lon=77.2&poi=1696
+2015-02-26 12:02:36 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 12:14:58 - INFO --> Entered ck.php
+2015-02-26 12:15:14 - INFO --> Entered ck.php
+2015-02-26 12:15:14 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 12:15:14 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 12:15:14 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 12:15:14 - DEBUG --> entered log_store_click()
+2015-02-26 12:15:14 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 12:15:14 - DEBUG --> no type is 
+2015-02-26 12:15:14 - DEBUG --> dest is http://&lat=28.57&lon=77.32&poi=1696
+2015-02-26 12:15:14 - DEBUG --> Entered MAX_redirect() http://&lat=28.57&lon=77.32&poi=1696
+2015-02-26 12:15:14 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 13:01:03 - INFO --> Entered ck.php
+2015-02-26 13:01:04 - INFO --> Entered ck.php
+2015-02-26 13:01:04 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 13:01:04 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 13:01:04 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 13:01:04 - DEBUG --> entered log_store_click()
+2015-02-26 13:01:04 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 13:01:04 - DEBUG --> no type is 
+2015-02-26 13:01:04 - DEBUG --> dest is http://&lat=28.466705&lon=77.033295&poi=1696
+2015-02-26 13:01:04 - DEBUG --> Entered MAX_redirect() http://&lat=28.466705&lon=77.033295&poi=1696
+2015-02-26 13:01:04 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 13:09:51 - INFO --> Entered ck.php
+2015-02-26 13:09:52 - INFO --> Entered ck.php
+2015-02-26 13:09:52 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 13:09:52 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 13:09:52 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 13:09:52 - DEBUG --> entered log_store_click()
+2015-02-26 13:09:52 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 13:09:52 - DEBUG --> no type is 
+2015-02-26 13:09:52 - DEBUG --> dest is http://&lat=28.666702&lon=77.216705&poi=1696
+2015-02-26 13:09:52 - DEBUG --> Entered MAX_redirect() http://&lat=28.666702&lon=77.216705&poi=1696
+2015-02-26 13:09:52 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-26 13:20:14 - INFO --> Entered ck.php
+2015-02-26 13:20:17 - INFO --> Entered ck.php
+2015-02-26 13:20:17 - DEBUG --> 
+ entered getValueFromKey
+2015-02-26 13:20:17 - DEBUG --> 
+ entered getPoiofClient
+2015-02-26 13:20:17 - DEBUG --> 
+ revenue type is not 2
+2015-02-26 13:20:17 - DEBUG --> entered log_store_click()
+2015-02-26 13:20:17 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-26 13:20:17 - DEBUG --> no type is 
+2015-02-26 13:20:17 - DEBUG --> dest is http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 13:20:17 - DEBUG --> Entered MAX_redirect() http://&lat=28.6667&lon=77.2167&poi=1696
+2015-02-26 13:20:17 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 4:05:47 - INFO --> Entered ck.php
+2015-02-27 4:05:48 - INFO --> Entered ck.php
+2015-02-27 4:05:48 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 4:05:48 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 4:05:48 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 4:05:48 - DEBUG --> entered log_store_click()
+2015-02-27 4:05:48 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 4:05:48 - DEBUG --> no type is 
+2015-02-27 4:05:48 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:05:48 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:05:48 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 4:05:48 - DEBUG --> MAX_redirect() increase web
+2015-02-27 4:11:18 - INFO --> Entered ck.php
+2015-02-27 4:11:20 - INFO --> Entered ck.php
+2015-02-27 4:11:20 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 4:11:20 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 4:11:20 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 4:11:20 - DEBUG --> entered log_store_click()
+2015-02-27 4:11:20 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 4:11:20 - DEBUG --> no type is 
+2015-02-27 4:11:20 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:11:20 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:11:20 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 4:11:20 - DEBUG --> MAX_redirect() increase web
+2015-02-27 4:12:28 - INFO --> Entered ck.php
+2015-02-27 4:12:30 - INFO --> Entered ck.php
+2015-02-27 4:12:30 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 4:12:30 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 4:12:30 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 4:12:30 - DEBUG --> entered log_store_click()
+2015-02-27 4:12:30 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 4:12:30 - DEBUG --> no type is 
+2015-02-27 4:12:30 - DEBUG --> dest is http://www.vanitycube.in&lat=28.57&lon=77.32&poi=1708
+2015-02-27 4:12:30 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.57&lon=77.32&poi=1708
+2015-02-27 4:12:30 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 4:12:30 - DEBUG --> MAX_redirect() increase web
+2015-02-27 4:29:11 - INFO --> Entered ck.php
+2015-02-27 4:29:12 - INFO --> Entered ck.php
+2015-02-27 4:29:12 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 4:29:12 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 4:29:12 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 4:29:12 - DEBUG --> entered log_store_click()
+2015-02-27 4:29:12 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 4:29:12 - DEBUG --> no type is 
+2015-02-27 4:29:12 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:29:12 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 4:29:12 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 4:29:12 - DEBUG --> MAX_redirect() increase web
+2015-02-27 5:10:08 - INFO --> Entered ck.php
+2015-02-27 5:10:09 - INFO --> Entered ck.php
+2015-02-27 5:10:09 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 5:10:09 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 5:10:09 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 5:10:09 - DEBUG --> entered log_store_click()
+2015-02-27 5:10:09 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 5:10:09 - DEBUG --> no type is 
+2015-02-27 5:10:09 - DEBUG --> dest is http://www.vanitycube.in&lat=28.600006&lon=77.20001&poi=1708
+2015-02-27 5:10:09 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.600006&lon=77.20001&poi=1708
+2015-02-27 5:10:09 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 5:10:09 - DEBUG --> MAX_redirect() increase web
+2015-02-27 5:19:30 - INFO --> Entered ck.php
+2015-02-27 5:19:30 - INFO --> Entered ck.php
+2015-02-27 5:19:30 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 5:19:30 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 5:19:30 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 5:19:30 - DEBUG --> entered log_store_click()
+2015-02-27 5:19:30 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 5:19:30 - DEBUG --> no type is 
+2015-02-27 5:19:30 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 5:19:30 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 5:19:30 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 5:19:30 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:21:19 - INFO --> Entered ck.php
+2015-02-27 7:21:19 - INFO --> Entered ck.php
+2015-02-27 7:21:19 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:21:19 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:21:19 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:21:19 - DEBUG --> entered log_store_click()
+2015-02-27 7:21:19 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:21:19 - DEBUG --> no type is 
+2015-02-27 7:21:19 - DEBUG --> dest is http://www.vanitycube.in&lat=28.681349&lon=77.1347&poi=1708
+2015-02-27 7:21:19 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.681349&lon=77.1347&poi=1708
+2015-02-27 7:21:19 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:21:19 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:21:38 - INFO --> Entered ck.php
+2015-02-27 7:21:38 - INFO --> Entered ck.php
+2015-02-27 7:21:38 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:21:38 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:21:38 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:21:38 - DEBUG --> entered log_store_click()
+2015-02-27 7:21:38 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:21:38 - DEBUG --> no type is 
+2015-02-27 7:21:38 - DEBUG --> dest is http://www.vanitycube.in&lat=28.50451&lon=77.09299&poi=1708
+2015-02-27 7:21:38 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.50451&lon=77.09299&poi=1708
+2015-02-27 7:21:38 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:21:38 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:30:58 - INFO --> Entered ck.php
+2015-02-27 7:30:58 - INFO --> Entered ck.php
+2015-02-27 7:30:58 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:30:58 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:30:58 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:30:58 - DEBUG --> entered log_store_click()
+2015-02-27 7:30:58 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:30:58 - DEBUG --> no type is 
+2015-02-27 7:30:58 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:30:58 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:30:58 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:30:58 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:37:38 - INFO --> Entered ck.php
+2015-02-27 7:37:38 - INFO --> Entered ck.php
+2015-02-27 7:37:38 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:37:38 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:37:38 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:37:38 - DEBUG --> entered log_store_click()
+2015-02-27 7:37:38 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:37:38 - DEBUG --> no type is 
+2015-02-27 7:37:38 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:37:38 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:37:38 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:37:38 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:50:22 - INFO --> Entered ck.php
+2015-02-27 7:50:22 - INFO --> Entered ck.php
+2015-02-27 7:50:22 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:50:22 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:50:22 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:50:22 - DEBUG --> entered log_store_click()
+2015-02-27 7:50:22 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:50:22 - DEBUG --> no type is 
+2015-02-27 7:50:22 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6&lon=77.2&poi=1708
+2015-02-27 7:50:22 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6&lon=77.2&poi=1708
+2015-02-27 7:50:22 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:50:22 - DEBUG --> MAX_redirect() increase web
+2015-02-27 7:52:52 - INFO --> Entered ck.php
+2015-02-27 7:52:52 - INFO --> Entered ck.php
+2015-02-27 7:52:52 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 7:52:52 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 7:52:52 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 7:52:52 - DEBUG --> entered log_store_click()
+2015-02-27 7:52:52 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 7:52:52 - DEBUG --> no type is 
+2015-02-27 7:52:52 - DEBUG --> dest is http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:52:52 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.6667&lon=77.2167&poi=1708
+2015-02-27 7:52:52 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 7:52:52 - DEBUG --> MAX_redirect() increase web
+2015-02-27 8:01:40 - INFO --> Entered ck.php
+2015-02-27 8:01:45 - INFO --> Entered ck.php
+2015-02-27 8:01:45 - DEBUG --> 
+ entered getValueFromKey
+2015-02-27 8:01:45 - DEBUG --> 
+ entered getPoiofClient
+2015-02-27 8:01:45 - DEBUG --> 
+ revenue type is not 2
+2015-02-27 8:01:45 - DEBUG --> entered log_store_click()
+2015-02-27 8:01:45 - DEBUG --> 
+ inside MAX_Delivery_log_setLastAction
+2015-02-27 8:01:45 - DEBUG --> no type is 
+2015-02-27 8:01:45 - DEBUG --> dest is http://www.vanitycube.in&lat=28.44678&lon=77.09994&poi=1708
+2015-02-27 8:01:45 - DEBUG --> Entered MAX_redirect() http://www.vanitycube.in&lat=28.44678&lon=77.09994&poi=1708
+2015-02-27 8:01:45 - DEBUG --> MAX_redirect() landing not enabled
+2015-02-27 8:01:45 - DEBUG --> MAX_redirect() increase web
